@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+}
+
+html body {
+    background-color: black;
+    color: white;
+}
+
+#pageTitle {
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#mapContainer {
+    position: relative;
+    clear: both;
+    height: 800px;
+    width: 75%;
+    /* padding-top: 20px; */
+    float: left;
+}
+
+#map {
+    height: 100%;
+    width: 85%;
+    margin-left: 10%;
+    margin-right: 5%;
+    pointer-events: none;
+    position: absolute;
+    /* left: 50%; */
+    /* transform: translate(-50%, 0); */
+    color: black;
+    border-radius: 20px;
+    /* margin-top: 20px; */
+}
+
+#headerBar {
+    /* clear: both; */
+    width: 25%;
+    float: left;
+}
+
+#dataPluginBar, #displayPluginBar {
+    margin-top: 30px;
+    margin-bottom: 170px;
+}
+
+.pluginTitle {
+    /* float: left; */
+    font-size: 25px;
+    margin-top: 6px;
+}
+
+.pluginContainer {
+    float: left;
+    padding: 5px 10px 5px 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.pluginLink, .pluginLinkCurrent {
+    display: block;
+    margin: 1px auto auto auto;
+    height: em;
+    width: 105px;
+    background-color: white;
+    padding: 2px;
+    background-clip: content-box;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.pluginLinkCurrent {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #eaff56;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.pluginLink {
+    opacity: 0.6;
+}
+
+.pluginLink:link, .pluginLink:visited {
+    color: black;
+    border: 1px solid white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.pluginLink:hover {
+    border: 2px solid white;
+    width: 107px;
+    height: em + 2px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.pluginLink:active {
+    opacity: 0.8;
+}
+
+.pluginButton {
+    text-align: center;
+}
+
+#displayPluginBar {
+    clear: both;
+}
+
+#button {
+    height: 20px;
+    width: 20px;
+    color: blue;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    width: 500px;
+}
+
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}

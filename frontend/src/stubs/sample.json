@@ -1,0 +1,1205 @@
+{
+    "data": {
+        "Alabama": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        13,
+                        14
+                    ]
+                }
+            ]
+        },
+        "Alaska": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Arizona": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Arkansas": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "California": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Colorado": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Connecticut": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Delaware": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "District": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Florida": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Georgia": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Hawaii": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Idaho": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Illinois": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Indiana": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Iowa": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Kansas": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Kentucky": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Louisiana": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Maine": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Maryland": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Massachusetts": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Michigan": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        23,
+                        24
+                    ]
+                }
+            ]
+        },
+        "Minnesota": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Mississippi": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Missouri": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Montana": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Nebraska": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Nevada": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "New Hampshire": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "New Jersey": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "New Mexico": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "New York": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "North Carolina": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "North Dakota": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Ohio": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Oklahoma": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Oregon": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Pennsylvania": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        33,
+                        34
+                    ]
+                }
+            ]
+        },
+        "Rhode Island": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "South Carolina": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "South Dakota": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Tennessee": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Texas": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Utah": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Vermont": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Virginia": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Washington": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "West Virginia": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Wisconsin": {
+            "xLabels": [
+                "time1",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        43,
+                        44
+                    ]
+                }
+            ]
+        },
+        "Wyoming": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        },
+        "Puerto": {
+            "xLabels": [
+                "time",
+                "2022-1-1",
+                "2022-2-1"
+            ],
+            "data": [
+                {
+                    "label": "data1",
+                    "data": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "label": "data2",
+                    "data": [
+                        3,
+                        4
+                    ]
+                }
+            ]
+        }
+    },
+    "dataPlugins": [
+        "first",
+        "second"
+    ],
+    "currentDataPlugin": "first"
+}

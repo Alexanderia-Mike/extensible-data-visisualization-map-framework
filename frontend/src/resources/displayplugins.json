@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "timeSeries",
+        "pie",
+        "test1",
+        "test2"
+    ]
+}
